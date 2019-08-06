@@ -22795,7 +22795,7 @@ textarea.form-control {
     .unit-sm-horizontal>.unit-left+.unit-right,
     .unit-sm-horizontal>.unit-left+.unit-body {
         padding-top: 0;
-        padding-left: 30px
+        padding-left: 0
     }
     .unit-sm-horizontal>.unit-body+.unit-right {
         padding-top: 0;

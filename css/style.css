@@ -19705,7 +19705,8 @@ address {
 }
 
 .page .text-primary-light {
-    color: #efd0ad
+    color: #ffffff;
+  
 }
 
 .page a.text-primary-light:hover,
@@ -24410,7 +24411,7 @@ textarea.form-control {
 }
 
 .breadcrumb-modern {
-    background-color: #343537;
+    background-color: #ff8c00;
     padding-top: 40px
 }
 
@@ -24424,7 +24425,7 @@ textarea.form-control {
 
 @media(min-width:992px) {
     .breadcrumb-modern {
-        background: url(../images/backgrounds/bg-breadcrumbs.jpg) no-repeat center;
+        background: url(../images/backgrounds/background-3.jpg) no-repeat center;
         background-size: cover;
         padding-top: 165px
     }
@@ -25756,10 +25757,24 @@ hr {
     content: 'M'
 }
 
+.counter-c:after {
+    content: 'C'
+}
+
+.counter-t:after {
+    content: 'T'
+}
+
+.counter-s:after {
+    content: 'S'
+}
+
+.counter-w:after {
+    content: 'W'
+}
 .counter-k:after {
     content: 'K'
 }
-
 .fb-page-responsive {
     text-align: center
 }

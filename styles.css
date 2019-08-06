@@ -25753,6 +25753,21 @@ hr {
     content: 'M'
 }
 
+.counter-c:after {
+    content: 'C'
+}
+
+.counter-t:after {
+    content: 'T'
+}
+
+.counter-s:after {
+    content: 'S'
+}
+
+.counter-w:after {
+    content: 'W'
+}
 .counter-k:after {
     content: 'K'
 }

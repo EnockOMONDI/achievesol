@@ -19159,18 +19159,18 @@ small,
 
 .text-extra-big {
     line-height: 1.2;
-    font-size: 60px
+    font-size: 30px
 }
 
 @media(min-width:768px) {
     .text-extra-big {
-        font-size: 90px
+        font-size: 60px
     }
 }
 
 @media(min-width:1200px) {
     .text-extra-big {
-        font-size: 180px
+        font-size: 100px
     }
 }
 

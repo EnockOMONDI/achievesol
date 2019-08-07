@@ -39573,7 +39573,7 @@ a.pswp__share--download:hover {
 }
 
 .rd-navbar.rd-navbar-top-panel.rd-navbar-default.rd-navbar-white.rd-navbar-sidebar-toggle.rd-navbar-sidebar-toggle-1.rd-navbar-original.rd-navbar-fixed a.text-white:hover {
-    color: #ff8c00;
+    color: #ffffff;
 }
 
 .rd-navbar-default.rd-navbar-static.rd-navbar-simple .rd-navbar-search-form .form-label {
@@ -40797,10 +40797,10 @@ a.pswp__share--download:hover {
 .rd-navbar-top-panel.rd-navbar-static.rd-navbar-static-fullwidth-transparent.rd-navbar--is-stuck,
 .rd-navbar-top-panel.rd-navbar-fullwidth.rd-navbar-static-fullwidth-transparent.rd-navbar--is-stuck {
     background: -moz-linear-gradient(90deg, #ff8c00  0%, #ff8c00  100%);
-    background: -webkit-linear-gradient(90deg, #ff8c00  0%, #ff8c00 100%);
+    background: -webkit-linear-gradient(90deg, #ff8c00 0%, #ff8c00 100%);
     background: -o-linear-gradient(90deg, #ff8c00 0%, #ff8c00 100%);
     background: -ms-linear-gradient(90deg, #ff8c00 0%, #ff8c00 100%);
-    background: linear-gradient(90deg, #ff8c00  0%, #ff8c00  100%)
+    background: linear-gradient(90deg, #ff8c00 0%, #ff8c00 100%)
 }
 
 .rd-navbar-top-panel.rd-navbar-static.rd-navbar-static-fullwidth-transparent.rd-navbar-primary,

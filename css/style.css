@@ -20951,8 +20951,15 @@ fieldset[disabled] .btn-link:focus {
 }
 
 .icon-white-xs {
-    color: rgba(255, 255, 255, 0.842)
+    color: rgba(0, 59, 114, 0.842)
 }
+.icon-white-xs2 {
+    color: rgb(167, 0, 117)
+}
+.icon-white-xs3 {
+    color: rgb(0, 170, 182)
+}
+
 
 .icon-silver {
     color: #bfbfbf
@@ -36050,7 +36057,8 @@ a.pswp__share--download:hover {
     font-size: 14px;
     text-transform: uppercase;
     font-weight: 700;
-    line-height: 24px
+    line-height: 24px;
+   
 }
 
 .rd-navbar {
@@ -40796,11 +40804,11 @@ a.pswp__share--download:hover {
 
 .rd-navbar-top-panel.rd-navbar-static.rd-navbar-static-fullwidth-transparent.rd-navbar--is-stuck,
 .rd-navbar-top-panel.rd-navbar-fullwidth.rd-navbar-static-fullwidth-transparent.rd-navbar--is-stuck {
-    background: -moz-linear-gradient(90deg, #ff8c00  0%, #ff8c00  100%);
-    background: -webkit-linear-gradient(90deg, #ff8c00 0%, #ff8c00 100%);
-    background: -o-linear-gradient(90deg, #ff8c00 0%, #ff8c00 100%);
-    background: -ms-linear-gradient(90deg, #ff8c00 0%, #ff8c00 100%);
-    background: linear-gradient(90deg, #ff8c00 0%, #ff8c00 100%)
+    background: -moz-linear-gradient(90deg, #0021d9 0%, #0021d9 100%);
+    background: -webkit-linear-gradient(90deg, #0021d9 0%, #0021d9 100%);
+    background: -o-linear-gradient(90deg, #0021d9 0%, #0021d9 100%);
+    background: -ms-linear-gradient(90deg, #0021d9 0%, #0021d9 100%);
+    background: linear-gradient(90deg, #0021d9 0%, #0021d9 100%)
 }
 
 .rd-navbar-top-panel.rd-navbar-static.rd-navbar-static-fullwidth-transparent.rd-navbar-primary,
@@ -40810,11 +40818,11 @@ a.pswp__share--download:hover {
 
 .rd-navbar-top-panel.rd-navbar-static.rd-navbar-static-fullwidth-transparent.rd-navbar-primary.rd-navbar--is-stuck,
 .rd-navbar-top-panel.rd-navbar-fullwidth.rd-navbar-static-fullwidth-transparent.rd-navbar-primary.rd-navbar--is-stuck {
-    background: -moz-linear-gradient(90deg, #ff8c00 0%, #ff8c00 100%);
-    background: -webkit-linear-gradient(90deg, #ff8c00 0%, #ff8c00 100%);
-    background: -o-linear-gradient(90deg, #ff8c00 0%, #ff8c00 100%);
-    background: -ms-linear-gradient(90deg, #ff8c00 0%, #ff8c00 100%);
-    background: linear-gradient(90deg, #ff8c00  0%, #ff8c00  100%)
+    background: -moz-linear-gradient(90deg, #0021d9 0%, #0021d9 100%);
+    background: -webkit-linear-gradient(90deg, #0021d9 0%, #0021d9 100%);
+    background: -o-linear-gradient(90deg, #0021d9 0%, #0021d9 100%);
+    background: -ms-linear-gradient(90deg, #0021d9 0%, #0021d9 100%);
+    background: linear-gradient(90deg, #0021d9 0%, #0021d9 100%)
 }
 
 .rd-navbar-top-panel.rd-navbar-static .rd-navbar-inner>.rd-navbar-top-panel {

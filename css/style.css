@@ -34029,7 +34029,7 @@ html .owl-nav {
     }
     .responsive-tabs[data-type=horizontal]:not(.tabs-lg-collapsed) .resp-tabs-list,
     .responsive-tabs[data-type=vertical]:not(.tabs-lg-collapsed) .resp-tabs-list {
-        display: block
+        display: none
     }
     .responsive-tabs.tab-centered[data-type=horizontal] .resp-tabs-list {
         text-align: center;
@@ -34065,7 +34065,7 @@ html .owl-nav {
         max-width: 9%
     }
     .responsive-tabs[data-type=vertical] .resp-tabs-list li {
-        display: block
+        display: none
     }
     .responsive-tabs[data-type=vertical] .resp-tabs-list li+li {
         margin-left: 0
@@ -34086,7 +34086,7 @@ html .owl-nav {
         display: none
     }
     .responsive-tabs.tabs-lg-collapsed .resp-tabs-list {
-        display: block
+        display: none
     }
 }
 

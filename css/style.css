@@ -19232,7 +19232,7 @@ ol {
 }
 
 *+.list-inline-custom {
-    margin-top: 20px
+    margin-top: 0px
 }
 
 @media(min-width:1200px) {
@@ -20090,7 +20090,7 @@ address {
 
 .text-bold,
 strong {
-    font-weight: 700
+    font-weight: 600
 }
 
 .text-ubold {
@@ -20976,7 +20976,7 @@ fieldset[disabled] .btn-link:focus {
 
 .icon-gray-light{
     color: #fff;
-    background: rgb(43, 51, 163);
+    background: rgb(22, 26, 82);
     border-color: rgb(43, 51, 163);
 }
 
